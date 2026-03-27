@@ -146,5 +146,4 @@ BPM alone does not determine genre. This classifier uses tempo as a proxy for ge
 
 - [Librosa documentation](https://librosa.org/doc/latest/index.html)
 - [librosa.beat.beat_track() reference](https://librosa.org/doc/latest/generated/librosa.beat.beat_track.html)
-- [Music and Audio Analysis in Python — Real Python](https://realpython.com/python-music-analysis-librosa/)
 
